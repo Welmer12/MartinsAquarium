@@ -1,0 +1,12 @@
+.fishCard {
+    border: solid;
+
+}
+.location {
+    display: flex;
+}
+
+header {
+font-size: 100px;
+text-align: center;
+}
