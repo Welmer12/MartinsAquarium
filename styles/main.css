@@ -1,12 +1,31 @@
+header {
+    font-size: 100px;
+    text-align: center;
+    background-color: aqua;
+    }
+
 .fishCard {
     border: solid;
-
+    background-color: red;
+    
 }
 .location {
     display: flex;
+    text-align: right
+    ;
 }
 
 header {
 font-size: 100px;
 text-align: center;
+}
+
+.container {
+    display: flex
+}
+
+aside {
+    width: 50%;
+    align-items: center;
+    justify-content: center;
 }
